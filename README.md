@@ -18,7 +18,7 @@ You will find in this repo several links to google sheets carrying list of games
         <img src="./assets/images/Dreamcast/icon.png">
       </td>
       <td valign="middle">
-        <a href="https://docs.google.com/spreadsheets/d/1O9oKTbVJZ5WzmIvAX5OqD6yyS54OsfNq5e9Z1nHpbx0/edit?usp=sharing" target="_blank">Sega Dreamcast</a>
+        <a href="https://docs.google.com/spreadsheets/d/1O9oKTbVJZ5WzmIvAX5OqD6yyS54OsfNq5e9Z1nHpbx0/edit?usp=sharing" target="_blank" style="target-new: tab;">Sega Dreamcast</a>
       </td>
       <td valign="middle">
         Retrorun32 + Flycast_xtreme
