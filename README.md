@@ -1,0 +1,1 @@
+# R36S-Game-Compatibility-Lists
