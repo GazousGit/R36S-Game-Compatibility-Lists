@@ -20,7 +20,7 @@ You will find in this repo several links to google sheets carrying list of games
       <th></th>
       <th>Console</th>
       <th>Emulator/Core</th>
-      <th style="text-align: right">Total of games</th>
+      <th style="text-align:right">Total of games</th>
     </tr>
     <tr>
       <td valign="middle">
