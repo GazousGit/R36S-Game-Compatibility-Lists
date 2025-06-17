@@ -20,7 +20,7 @@ You will find in this repo several links to google sheets carrying list of games
       <th></th>
       <th>Console</th>
       <th>Emulator/Core</th>
-      <th style="text-align:right">Total of games</th>
+      <th>Games tested</th>
     </tr>
     <tr>
       <td valign="middle">
@@ -33,7 +33,7 @@ You will find in this repo several links to google sheets carrying list of games
         Retrorun32 + Flycast_xtreme
       </td>
       <td valign="middle" align="right">
-        0/23 Games tested
+        0/23
       </td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@ You will find in this repo several links to google sheets carrying list of games
         Retrorun32 + Flycast_xtreme
       </td>
       <td valign="middle" align="right">
-        121/121 Games tested
+        121/121
       </td>
     </tr>
     <tr>
@@ -61,7 +61,7 @@ You will find in this repo several links to google sheets carrying list of games
         All emulators/cores
       </td>
       <td valign="middle" align="right">
-        193/288 Games tested
+        193/288
       </td>
     </tr>
     <tr>
@@ -75,7 +75,7 @@ You will find in this repo several links to google sheets carrying list of games
         Drastic
       </td>
       <td valign="middle" align="right">
-        45/84 Games tested
+        45/84
       </td>
     </tr>
     <tr>
@@ -89,7 +89,7 @@ You will find in this repo several links to google sheets carrying list of games
         Checking some ports if they do work
       </td>
       <td valign="middle" align="right">
-        (Coming soon)
+        TBD
       </td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@ You will find in this repo several links to google sheets carrying list of games
         Retrorun32 + Flycast_xtreme
       </td>
       <td valign="middle" align="right">
-        0/100 Games tested
+        0/100
       </td>
     </tr>
     <tr>
@@ -117,7 +117,7 @@ You will find in this repo several links to google sheets carrying list of games
         Standalone-bios
       </td>
       <td valign="middle" align="right">
-        80/80 Games tested
+        80/80
       </td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@ You will find in this repo several links to google sheets carrying list of games
         Best emulator/core for problematic games
       </td>
       <td valign="middle" align="right">
-        (Coming soon)
+        TBD
       </td>
     </tr>
     <tr>
@@ -145,7 +145,7 @@ You will find in this repo several links to google sheets carrying list of games
         Standalone
       </td>
       <td valign="middle" align="right">
-        209/209 Games tested
+        209/209
       </td>
     </tr>
   </table>
