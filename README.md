@@ -4,9 +4,12 @@
 Hello, 
 You will find in this repo several links to google sheets carrying list of games tested on ArkOS.
 
-- Please note that some lists are not completed yet (It does take a lot of time, especially for N64) so please be patient.
-- If you have any suggestions/Corrections for thoses list, please do not hesitate and create an issue on this repository.
-- While being tested with a R36S device, those lists should be relevant for any device using Rockchip RK3326 SoC.
+- Be patient! Some lists are not completed yet (It does take a lot of time, especially for N64)
+- If you have any questions/suggestions/corrections for thoses list, **please do not hesitate and create an issue on this repository**.
+- Please make sure to **read every sheets in the documents**, I always add an Informations sheet with useful notes, control mapping, etc..
+- While being tested with a R36S device, the lists **should be relevant for any device using Rockchip RK3326 SoC**.
+- You might think PlayStation list is useless but I actually saw that Crash Bandicoot had some slowdowns on an emulator and another game worked better with this same emulator (this list is not a priority at all, I may even abandon it to be honest, we'll see once I'm done with all the other lists)
+- Same thing with Portmaster, I tried the Super Mario 64 and it actually didn't worked for me, so I'd like to test some ports (especialy the one that are N64/PSX/Dreamcast ports)
 
 
 ## _List of games_
@@ -14,46 +17,10 @@ You will find in this repo several links to google sheets carrying list of games
 <div align="left">
   <table>
     <tr>
-      <td valign="middle">
-        <img src="./assets/images/Dreamcast/icon.png">
-      </td>
-      <td valign="middle">
-        <a href="https://docs.google.com/spreadsheets/d/1O9oKTbVJZ5WzmIvAX5OqD6yyS54OsfNq5e9Z1nHpbx0/edit?usp=sharing">Sega Dreamcast</a>
-      </td>
-      <td valign="middle">
-        Retrorun32 + Flycast_xtreme
-      </td>
-      <td valign="middle" align="right">
-        100% completed
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">
-        <img src="./assets/images/Saturn/icon.png">
-      </td>
-      <td valign="middle">
-        <a href="https://docs.google.com/spreadsheets/d/1cRLVU2-S1te0AmryrtiElMfnKLWFWM6_Pcpnd-Aj0gw/edit?usp=sharing">Sega Saturn</a>
-      </td>
-      <td valign="middle">
-        Standalone-bios
-      </td>
-      <td valign="middle" align="right">
-        100% completed 
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">
-        <img src="./assets/images/Naomi/icon.png">
-      </td>
-      <td valign="middle">
-        <a href="https://docs.google.com/spreadsheets/d/1swkS6b7FK7UlZjSCL9fL8er9Uja6C0It9wE2yryrXUo/edit?usp=sharing">Sega Naomi</a>
-      </td>
-      <td valign="middle">
-        Retrorun32 + Flycast_xtreme
-      </td>
-      <td valign="middle" align="right">
-        0% completed
-      </td>
+      <th></th>
+      <th>Console</th>
+      <th>Emulator/Core</th>
+      <th style="text-align: right">Total of games</th>
     </tr>
     <tr>
       <td valign="middle">
@@ -66,21 +33,21 @@ You will find in this repo several links to google sheets carrying list of games
         Retrorun32 + Flycast_xtreme
       </td>
       <td valign="middle" align="right">
-        0% completed 
+        0/23 Games tested
       </td>
     </tr>
     <tr>
       <td valign="middle">
-        <img src="./assets/images/PSP/icon.png">
+        <img src="./assets/images/Dreamcast/icon.png">
       </td>
       <td valign="middle">
-        <a href="https://docs.google.com/spreadsheets/d/1HKAoZJpFNoW4uLzxl67Z98l-kYWDKHrPEaezvDSMahQ/edit?usp=sharing">Sony PSP</a>
+        <a href="https://docs.google.com/spreadsheets/d/1O9oKTbVJZ5WzmIvAX5OqD6yyS54OsfNq5e9Z1nHpbx0/edit?usp=sharing">Dreamcast</a>
       </td>
       <td valign="middle">
-        Standalone
+        Retrorun32 + Flycast_xtreme
       </td>
       <td valign="middle" align="right">
-        100% completed 
+        121/121 Games tested
       </td>
     </tr>
     <tr>
@@ -94,7 +61,7 @@ You will find in this repo several links to google sheets carrying list of games
         All emulators/cores
       </td>
       <td valign="middle" align="right">
-        66% completed 
+        193/288 Games tested
       </td>
     </tr>
     <tr>
@@ -108,7 +75,77 @@ You will find in this repo several links to google sheets carrying list of games
         Drastic
       </td>
       <td valign="middle" align="right">
-        55% completed
+        45/84 Games tested
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="./assets/images/Linux/icon.png">
+      </td>
+      <td valign="middle">
+        Portmaster
+      </td>
+      <td valign="middle">
+        Checking some ports if they do work
+      </td>
+      <td valign="middle" align="right">
+        (Coming soon)
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="./assets/images/Naomi/icon.png">
+      </td>
+      <td valign="middle">
+        <a href="https://docs.google.com/spreadsheets/d/1swkS6b7FK7UlZjSCL9fL8er9Uja6C0It9wE2yryrXUo/edit?usp=sharing">Sega Naomi</a>
+      </td>
+      <td valign="middle">
+        Retrorun32 + Flycast_xtreme
+      </td>
+      <td valign="middle" align="right">
+        0/100 Games tested
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="./assets/images/Saturn/icon.png">
+      </td>
+      <td valign="middle">
+        <a href="https://docs.google.com/spreadsheets/d/1cRLVU2-S1te0AmryrtiElMfnKLWFWM6_Pcpnd-Aj0gw/edit?usp=sharing">Sega Saturn</a>
+      </td>
+      <td valign="middle">
+        Standalone-bios
+      </td>
+      <td valign="middle" align="right">
+        80/80 Games tested
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="./assets/images/Playstation/icon.png">
+      </td>
+      <td valign="middle">
+        Sony Playstation
+      </td>
+      <td valign="middle">
+        Best emulator/core for problematic games
+      </td>
+      <td valign="middle" align="right">
+        (Coming soon)
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="./assets/images/PSP/icon.png">
+      </td>
+      <td valign="middle">
+        <a href="https://docs.google.com/spreadsheets/d/1HKAoZJpFNoW4uLzxl67Z98l-kYWDKHrPEaezvDSMahQ/edit?usp=sharing">Sony PSP</a>
+      </td>
+      <td valign="middle">
+        Standalone
+      </td>
+      <td valign="middle" align="right">
+        209/209 Games tested
       </td>
     </tr>
   </table>
@@ -118,3 +155,4 @@ You will find in this repo several links to google sheets carrying list of games
 - Device used is a R36S with original panel (not that it should matter at all)
 - Micro SD used is Samsung Evo Pro Plus 2024 (Read speed of your SD card does matter)
 - Using ArkOs community image (https://github.com/AeolusUX/ArkOS-R3XS)
+- Most of the roms tested are PAL/Europe (when available, otherwise it's NTSC/US or Japanese)
