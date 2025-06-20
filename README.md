@@ -33,7 +33,7 @@ You will find in this repo several links to google sheets carrying list of games
         Retrorun32 + Flycast_xtreme
       </td>
       <td valign="middle" align="right">
-        0/23
+        34/34
       </td>
     </tr>
     <tr>
