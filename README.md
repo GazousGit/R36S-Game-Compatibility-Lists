@@ -61,7 +61,7 @@ You will find in this repo several links to google sheets carrying list of games
         All emulators/cores
       </td>
       <td valign="middle" align="right">
-        220/288
+        239/289
       </td>
     </tr>
     <tr>
