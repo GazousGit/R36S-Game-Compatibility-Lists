@@ -61,7 +61,7 @@ You will find in this repo several links to google sheets carrying list of games
         All emulators/cores
       </td>
       <td valign="middle" align="right">
-        264/290
+        290/290
       </td>
     </tr>
     <tr>
@@ -75,7 +75,7 @@ You will find in this repo several links to google sheets carrying list of games
         Drastic
       </td>
       <td valign="middle" align="right">
-        45/84
+        50/84
       </td>
     </tr>
     <tr>
