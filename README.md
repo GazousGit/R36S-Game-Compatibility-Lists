@@ -117,7 +117,7 @@ You will find in this repo several links to google sheets carrying list of games
         Standalone-bios
       </td>
       <td valign="middle" align="right">
-        80/80
+        152/152
       </td>
     </tr>
     <tr>
