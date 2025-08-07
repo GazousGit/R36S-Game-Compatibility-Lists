@@ -47,7 +47,7 @@ You will find in this repo several links to google sheets carrying list of games
         Retrorun32 + Flycast_xtreme
       </td>
       <td valign="middle" align="right">
-        121/121
+        213/213
       </td>
     </tr>
     <tr>
