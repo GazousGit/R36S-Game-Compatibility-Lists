@@ -145,7 +145,7 @@ You will find in this repo several links to google sheets carrying list of games
         Standalone
       </td>
       <td valign="middle" align="right">
-        209/209
+        330/330
       </td>
     </tr>
   </table>
