@@ -30,7 +30,7 @@ You will find in this repo several links to google sheets carrying list of games
         <a href="https://docs.google.com/spreadsheets/d/1j5TMrCGLF12GamZY_Ui3W0Y8v_qLUoqugXY3ywF7CHM/edit?usp=sharing">Atomiswave</a>
       </td>
       <td valign="middle">
-        Retrorun32 + Flycast_xtreme
+        retrorun32/flycast_xtreme
       </td>
       <td valign="middle" align="right">
         34/34
@@ -44,7 +44,7 @@ You will find in this repo several links to google sheets carrying list of games
         <a href="https://docs.google.com/spreadsheets/d/1O9oKTbVJZ5WzmIvAX5OqD6yyS54OsfNq5e9Z1nHpbx0/edit?usp=sharing">Dreamcast</a>
       </td>
       <td valign="middle">
-        Retrorun32 + Flycast_xtreme
+        retrorun32/flycast_xtreme & retroarch32/flycast_rumble32_hack
       </td>
       <td valign="middle" align="right">
         213/213
@@ -72,7 +72,7 @@ You will find in this repo several links to google sheets carrying list of games
         <a href="https://docs.google.com/spreadsheets/d/13hCAIlVFnGrzd9PvA1uvdhmWeNO9NkMAkRKpvkuXcpw/edit?usp=sharing">Nintendo DS</a>
       </td>
       <td valign="middle">
-        Drastic
+        drastic (suggested games)
       </td>
       <td valign="middle" align="right">
         50/84
@@ -100,7 +100,7 @@ You will find in this repo several links to google sheets carrying list of games
         <a href="https://docs.google.com/spreadsheets/d/1swkS6b7FK7UlZjSCL9fL8er9Uja6C0It9wE2yryrXUo/edit?usp=sharing">Sega Naomi</a>
       </td>
       <td valign="middle">
-        Retrorun32 + Flycast_xtreme
+        retrorun32/flycast_xtreme
       </td>
       <td valign="middle" align="right">
         139/139
@@ -114,7 +114,7 @@ You will find in this repo several links to google sheets carrying list of games
         <a href="https://docs.google.com/spreadsheets/d/1cRLVU2-S1te0AmryrtiElMfnKLWFWM6_Pcpnd-Aj0gw/edit?usp=sharing">Sega Saturn</a>
       </td>
       <td valign="middle">
-        Standalone-bios
+        standalone-bios
       </td>
       <td valign="middle" align="right">
         152/152
@@ -142,7 +142,7 @@ You will find in this repo several links to google sheets carrying list of games
         <a href="https://docs.google.com/spreadsheets/d/1HKAoZJpFNoW4uLzxl67Z98l-kYWDKHrPEaezvDSMahQ/edit?usp=sharing">Sony PSP</a>
       </td>
       <td valign="middle">
-        Standalone
+        standalone & standalone 2021
       </td>
       <td valign="middle" align="right">
         330/330
