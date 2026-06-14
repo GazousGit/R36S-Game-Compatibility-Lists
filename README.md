@@ -1,10 +1,13 @@
+<img src="assets/images/bg.jpg" alt="R36S Game Compatibility Lists" width="100%" height="400" style="object-fit: cover;">
+
 # R36S-Game-Compatibility-Lists
 
 
 Hello, 
 You will find in this repo several links to google sheets carrying list of games tested on ArkOS.
+I did tested dArkOS a bit on Dreamcast and N64 for games with issues and I didn't noticed much diff.
 
-- Be patient! Some lists are not completed yet (It does take a lot of time, especially for N64)
+- Be patient! Some lists are not completed yet (It does take a lot of time)
 - If you have any questions/suggestions/corrections for thoses list, **please do not hesitate and create an issue on this repository**.
 - Please make sure to **read every sheets in the documents**, I always add an Informations sheet with useful notes, control mapping, etc..
 - While being tested with a R36S device, the lists **should be relevant for any device using Rockchip RK3326 SoC**.
@@ -150,6 +153,9 @@ You will find in this repo several links to google sheets carrying list of games
     </tr>
   </table>
 </div>
+
+> [!WARNING]
+> This repo contains all config files I generated during my PSP tests, you can paste them in your rom folder: `psp/ppsspp/PSP/SYSTEM` and standalone-2021 (even standalone) should pick them up if you got the same rom version (region) I used.
 
 ## Additional infos
 - Device used is a R36S with original panel (not that it should matter at all)
