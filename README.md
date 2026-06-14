@@ -22,7 +22,7 @@ I did tested dArkOS a bit on Dreamcast and N64 for games with issues and I didn'
     <tr>
       <th></th>
       <th>Console</th>
-      <th>Emulator/Core</th>
+      <th>Emulator/Core (mode Performance)</th>
       <th>Games tested</th>
     </tr>
     <tr>
@@ -128,13 +128,13 @@ I did tested dArkOS a bit on Dreamcast and N64 for games with issues and I didn'
         <img src="./assets/images/Playstation/icon.png">
       </td>
       <td valign="middle">
-        Sony Playstation
+        <a href="https://docs.google.com/spreadsheets/d/13PIC5H3jaw4d1OPRSiNvXObmGGlVmuNXcNHPU0MmxCU/edit?usp=sharing">Sony Playstation</a>
       </td>
       <td valign="middle">
         Best emulator/core for problematic games
       </td>
       <td valign="middle" align="right">
-        TBD
+        IN PROGRESS
       </td>
     </tr>
     <tr>
@@ -154,9 +154,7 @@ I did tested dArkOS a bit on Dreamcast and N64 for games with issues and I didn'
   </table>
 </div>
 
-<div style="background-color: #fff3cd; border: 1px solid #ffe69c; border-radius: 6px; padding: 12px 16px; color: #664d03;">
-  ⚠️ <strong>This repo contains all config files I generated during my PSP tests, you can paste them in your rom folder: <code>psp/ppsspp/PSP/SYSTEM</code> and standalone-2021 (even standalone) should pick them up if you got the same rom version (region) I used.</strong>
-</div>
+<img src="assets/images/psp-config-banner.svg" alt="Warning: This repo contains all config files I generated during my PSP tests, you can paste them in your rom folder: psp/ppsspp/PSP/SYSTEM and standalone-2021 (even standalone) should pick them up if you got the same rom version (region) I used but I can't guarantee you it will work." width="100%">
 
 ## Additional infos
 - Device used is a R36S with original panel (not that it should matter at all)

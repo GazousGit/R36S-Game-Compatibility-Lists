@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="1198" height="158" rx="10" fill="#fff3cd" stroke="#ffe69c" stroke-width="2"/>
+  <!-- warning icon -->
+  <path d="M55 40 L86 96 L24 96 Z" fill="#e0a800" stroke="#b8860b" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="51" y="58" width="8" height="22" rx="3" fill="#fff3cd"/>
+  <circle cx="55" cy="89" r="4" fill="#fff3cd"/>
+  <!-- text -->
+  <g fill="#664d03" font-size="22" font-weight="bold">
+    <text x="120" y="58">This repo contains all config files I generated during my PSP tests, you can</text>
+    <text x="120" y="90">paste them in your rom folder: psp/ppsspp/PSP/SYSTEM and standalone-2021 (even</text>
+    <text x="120" y="122">standalone) should pick them up if you got the same rom version (region) I used.</text>
+  </g>
+</svg>
