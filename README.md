@@ -2,8 +2,7 @@
 
 # R36S-Game-Compatibility-Lists
 
-
-Hello, 
+Hello,
 You will find in this repo several links to google sheets carrying list of games tested on ArkOS.
 I did tested dArkOS a bit on Dreamcast and N64 for games with issues and I didn't noticed much diff.
 
@@ -13,7 +12,6 @@ I did tested dArkOS a bit on Dreamcast and N64 for games with issues and I didn'
 - While being tested with a R36S device, the lists **should be relevant for any device using Rockchip RK3326 SoC**.
 - You might think PlayStation list is useless but I actually saw that Crash Bandicoot had some slowdowns on an emulator and another game worked better with this same emulator (this list is not a priority at all, I may even abandon it to be honest, we'll see once I'm done with all the other lists)
 - Same thing with Portmaster, I tried the Super Mario 64 and it actually didn't worked for me, so I'd like to test some ports (especialy the one that are N64/PSX/Dreamcast ports)
-
 
 ## _List of games_
 
@@ -86,13 +84,13 @@ I did tested dArkOS a bit on Dreamcast and N64 for games with issues and I didn'
         <img src="./assets/images/Linux/icon.png">
       </td>
       <td valign="middle">
-        Portmaster
+        <a href="https://docs.google.com/spreadsheets/d/14cbsraz4HIosPC2OHm5lYmAN97YrtU3tTYvMMJzsJls/edit?usp=sharing">Portmaster</a>
       </td>
       <td valign="middle">
         Checking some ports if they do work
       </td>
       <td valign="middle" align="right">
-        TBD
+        IN PROGRESS
       </td>
     </tr>
     <tr>
@@ -157,6 +155,7 @@ I did tested dArkOS a bit on Dreamcast and N64 for games with issues and I didn'
 <img src="assets/images/psp-config-banner.svg" alt="Warning: This repo contains all config files I generated during my PSP tests, you can paste them in your rom folder: psp/ppsspp/PSP/SYSTEM and standalone-2021 (even standalone) should pick them up if you got the same rom version (region) I used but I can't guarantee you it will work." width="100%">
 
 ## Additional infos
+
 - Device used is a R36S with original panel (not that it should matter at all)
 - Micro SD used is Samsung Evo Pro Plus 2024 (Read speed of your SD card does matter)
 - Using ArkOs community image (https://github.com/AeolusUX/ArkOS-R3XS)

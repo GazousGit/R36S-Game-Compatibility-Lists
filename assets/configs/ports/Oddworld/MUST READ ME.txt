@@ -1,0 +1,34 @@
+RELIVE (Oddworld) port tweaks - R36S
+====================================
+
+1. relive.gptk  ->  copy into ports/relive/
+   Contains one line ("back = esc"): makes SELECT send the ESC key
+   (skip cutscenes, exit menus that need Esc).
+
+2. abe2.ini  ->  copy to ports/relive/oddysee/ (and to exoddus/ too when playing AE)
+   [Gamepad]: jump=Y action=X throw=B fart=A speak1=LB speak2=LT
+   [Alive]:   overwrite_ini_by_game = false  (stops the game rewriting it)
+   
+3. Both launch scripts (ports/Oddworld Abes Oddysee.sh and
+   ports/Oddworld Abes Exoddus.sh) - two changes each:
+   
+   You may try to copy and replace your sh files.
+   However if the relive team update those files it might be better to manually update them like so:
+
+   a) After the line:  $ESUDO chmod 666 /dev/uinput
+      and BEFORE:      export SDL_GAMECONTROLLERCONFIG="$sdl_controllerconfig"
+      insert this block (PS1-style face buttons, a<->b and x<->y swapped):
+
+      sdl_controllerconfig='190000004b4800000011000000010000,GO-Super Gamepad,b:b1,a:b0,back:b12,dpdown:b9,dpleft:b10,dpright:b11,dpup:b8,guide:b16,leftshoulder:b4,leftstick:b14,lefttrigger:b6,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b15,righttrigger:b7,rightx:a2,righty:a3,start:b13,y:b2,x:b3,platform:Linux,'
+      printf '%s\n' "$sdl_controllerconfig" > /tmp/gamecontrollerdb.txt
+      export SDL_GAMECONTROLLERCONFIG_FILE=/tmp/gamecontrollerdb.txt
+
+   b) Change the gptokeyb line:
+      from:  $GPTOKEYB "relive" &
+      to:    $GPTOKEYB "relive" -c "$GAMEDIR/relive.gptk" &
+
+
+Result: GameSpeak on PS1 positions (LB+top=Hello, left=Follow me,
+bottom=Wait, right=Angry), jump on top button, SELECT = ESC.
+
+4. OPTIONAL in abe2.ini you may set audio_stereo to false since R36S has only 1 speaker
