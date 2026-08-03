@@ -76,7 +76,7 @@ I did tested dArkOS a bit on Dreamcast and N64 for games with issues and I didn'
         drastic (suggested games)
       </td>
       <td valign="middle" align="right">
-        50/84
+        62/86
       </td>
     </tr>
     <tr>
